@@ -1,0 +1,42 @@
+LANGUAGE.ok = "OK"
+LANGUAGE.cancel = "Cancel"
+
+LANGUAGE.not_permitted = "You are not permitted to perform this action."
+LANGUAGE.file_not_found = "File not found"
+LANGUAGE.player_not_found = "The player is not found."
+LANGUAGE.invalid_data = "Invalid data"
+LANGUAGE.invalid_args = "Invalid argument !"
+LANGUAGE.cant_fit = "You can't fit that in your inventory!"
+
+LANGUAGE.page = "page. %d"
+LANGUAGE.inventory = "inventory"
+LANGUAGE.bank = "bank"
+LANGUAGE.players_inventory = "%s's inventory"
+LANGUAGE.players_bank = "%s's bank"
+LANGUAGE.admin_title = "ItemStore Admin"
+
+LANGUAGE.move = "Move"
+LANGUAGE.use = "Use"
+LANGUAGE.usewith = "Use with..."
+LANGUAGE.drop = "throw"
+LANGUAGE.destroy = "destroy"
+LANGUAGE.merge = "Merge"
+LANGUAGE.split = "Split"
+LANGUAGE.split_half = "divide (%d)"
+
+LANGUAGE.picked_up = "You picked up a(n) %s."
+
+LANGUAGE.destroy_title = "destroy"
+LANGUAGE.destroy_confirmation = "Are you sure you want to delete ? You can not get it back !"
+
+LANGUAGE.ready = "Ready"
+LANGUAGE.not_ready = "Not ready"
+LANGUAGE.accept = "Accept"
+LANGUAGE.deny = "Deny"
+LANGUAGE.trading_with = "Trading with %s"
+LANGUAGE.trade_request = "Trade request"
+LANGUAGE.wants_to_trade = "%s wants to trade"
+LANGUAGE.too_far_away = "You are too far away to initiate a trade."
+LANGUAGE.trading_cooldown = "You must wait a bit before you can trade again."
+
+LANGUAGE.trade_failed = "Trade failed. Either you or your partner tried to offer more money than you had!"

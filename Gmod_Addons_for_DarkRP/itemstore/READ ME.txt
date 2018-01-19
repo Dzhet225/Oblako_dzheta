@@ -1,0 +1,8 @@
+Thanks for downloading!
+How to download
+1. Put in your addons folder
+2. Restart your server
+3. Goto weapons and other, It should be called Invertory without the 's
+4. Right clck it and copy to clipboard
+5. Make it a default weapon!
+6. Enjoy!
