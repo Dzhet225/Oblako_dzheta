@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/supplyhelicopter/supply_heli"
+	$nocull 1
+}
